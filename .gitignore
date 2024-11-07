@@ -1,0 +1,15 @@
+# CLion cache
+.idea/*
+.run/
+
+# Cmake cache
+cmake-build*
+
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+
